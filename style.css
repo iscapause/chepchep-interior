@@ -1,0 +1,25 @@
+{padding: 0PX;
+margin: 2px;
+}
+html,body{
+	background-image: url("C:\Users\iscapause\Pictures\Screenshot (584).png");
+	text-align: center;
+	position: absolute;
+width:100%;
+height: 100%;
+color: blue;
+
+}
+.text1{
+	color: blue;
+	text-align: center;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	top: 53%;
+	left: 50%;
+	
+}
+.text_2{
+	color: black;
+	font: fantasy;
+}
